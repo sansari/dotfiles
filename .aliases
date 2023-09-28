@@ -1,0 +1,4 @@
+alias gprs="git pull --rebase origin staging"
+alias gacommit="git add . && git commit"
+alias gdiffs="git diff --staged"
+alias gpush="git push"

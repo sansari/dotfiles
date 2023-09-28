@@ -1,0 +1,11 @@
+[user]
+	name = Salman Ansari
+	email = hello@salman.io
+[push]
+	default = current
+[alias]
+    st = status
+    logg = log --graph --decorate --oneline --all
+    cm = commit
+    df = diff
+    dfs = diff --staged
