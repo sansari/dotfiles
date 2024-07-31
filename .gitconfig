@@ -9,3 +9,4 @@
     cm = commit
     df = diff
     dfs = diff --staged
+    pushfwl = push --force-with-lease
